@@ -1,0 +1,41 @@
+Règlement de la course de voitures autonomes de Paris Saclay CoVAPSy
+
+- Le véhicule
+	
+	chassis/moteur Tamiya TT02
+	batterie 7,2V 500mAh max (max 7,2V pour l'alimentation)
+	batterie secondaire est autorisée
+	carroserie recouvrant plus de 80%
+	
+	rectangle de au moins 150mm de largeur et 110mm à l'arrière pour être visible
+	Carrosseries transparentes ou de couleur principale verte, rouge ou grise ne sont pas autorisées.
+	Il est possible de suprimer l'entraînement des roues avant
+	doit pouvoir fonctionner en marche avant et arrière
+	
+	il est possible de modifier quelques pièces pour améliores la mécanique(sur demande de acceptation)
+	
+	La communication doit se limiter à l'envoi d'un signal de démarrage
+	
+	Machine en bord pour calcul déporté
+	
+- La piste
+	
+	La forme de la piste peut devenir connue seulement lors les premiers tours de la voiture
+	Est constituée par: 
+		bordures de 200mm de hauteur, vertes sur la droite et rouges dur la gauche.
+		Rayon d'arcs: 400mm ou plus
+		largeur a tout point de piste supérieure à 800mm
+		Un marquage blanc continu de 19 mm de hauteur est ajouté pour faciliter la vision.
+		
+-Homologations
+
+	48h avant la journée de la course, les équipes doivent envoyer par mail une présentation de leur voiture (poster, diaporama, vidéo...) : schéma synoptique de la voiture, spécificités matérielles, méthode de navigation, outils IA utilisés.
+	
+	consiste à une validation des éléments
+	
+	Une homologation avec pénalité est envisageable,
+	
+	
+		
+
+
